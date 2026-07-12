@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/mdecoder24/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mdecoder24/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mdecoder24/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdecoder24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/mdecoder24/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mdecoder24/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdecoder24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdecoder24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
