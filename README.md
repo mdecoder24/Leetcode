@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mdecoder24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/mdecoder24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mdecoder24/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -108,4 +109,12 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdecoder24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/mdecoder24/Leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/mdecoder24/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
