@@ -10,6 +10,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mdecoder24/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mdecoder24/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mdecoder24/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdecoder24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/mdecoder24/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Greedy
@@ -31,10 +32,12 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdecoder24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mdecoder24/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mdecoder24/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mdecoder24/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mdecoder24/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mdecoder24/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdecoder24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/mdecoder24/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -119,4 +122,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/mdecoder24/Leetcode/tree/master/1260-shift-2d-grid) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mdecoder24/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
