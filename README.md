@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/mdecoder24/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1260-shift-2d-grid](https://github.com/mdecoder24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/mdecoder24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -23,6 +24,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/mdecoder24/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1288-remove-covered-intervals](https://github.com/mdecoder24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mdecoder24/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -129,4 +131,16 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mdecoder24/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/mdecoder24/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/mdecoder24/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/mdecoder24/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
