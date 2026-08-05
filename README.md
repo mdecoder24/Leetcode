@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mdecoder24/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/mdecoder24/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdecoder24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/mdecoder24/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -87,10 +88,12 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdecoder24/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mdecoder24/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/mdecoder24/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mdecoder24/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/mdecoder24/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
