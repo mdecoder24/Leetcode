@@ -74,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/mdecoder24/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/mdecoder24/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mdecoder24/Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mdecoder24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -117,6 +118,7 @@
 ## Math
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/mdecoder24/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mdecoder24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mdecoder24/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mdecoder24/Leetcode/tree/master/1406-stone-game-iii) |
@@ -224,7 +226,12 @@
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/mdecoder24/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/mdecoder24/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mdecoder24/Leetcode/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/mdecoder24/Leetcode/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/mdecoder24/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
