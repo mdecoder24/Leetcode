@@ -29,6 +29,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mdecoder24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/mdecoder24/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdecoder24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3904-smallest-stable-index-ii](https://github.com/mdecoder24/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mdecoder24/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/mdecoder24/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
