@@ -9,6 +9,7 @@
 | [0229-majority-element-ii](https://github.com/mdecoder24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mdecoder24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mdecoder24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/mdecoder24/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/mdecoder24/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/mdecoder24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/mdecoder24/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -194,6 +195,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/mdecoder24/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/mdecoder24/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mdecoder24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
