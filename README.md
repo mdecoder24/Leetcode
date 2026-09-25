@@ -52,6 +52,7 @@
 | [0229-majority-element-ii](https://github.com/mdecoder24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mdecoder24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mdecoder24/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/mdecoder24/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/mdecoder24/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/mdecoder24/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdecoder24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/mdecoder24/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mdecoder24/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/mdecoder24/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mdecoder24/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -123,6 +125,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/mdecoder24/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mdecoder24/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/mdecoder24/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mdecoder24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -174,6 +177,7 @@
 | [0205-isomorphic-strings](https://github.com/mdecoder24/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/mdecoder24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mdecoder24/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1096-brace-expansion-ii](https://github.com/mdecoder24/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/mdecoder24/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mdecoder24/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -200,6 +204,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdecoder24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/mdecoder24/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -285,4 +290,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mdecoder24/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mdecoder24/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mdecoder24/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
