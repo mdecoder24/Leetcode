@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/mdecoder24/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdecoder24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/mdecoder24/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -96,6 +97,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mdecoder24/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/mdecoder24/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mdecoder24/Leetcode/tree/master/1406-stone-game-iii) |
@@ -307,11 +309,13 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/mdecoder24/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mdecoder24/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
