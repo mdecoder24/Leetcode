@@ -71,6 +71,7 @@
 | [0022-generate-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/mdecoder24/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdecoder24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdecoder24/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -140,6 +141,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/mdecoder24/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mdecoder24/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/mdecoder24/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -318,6 +320,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/mdecoder24/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/mdecoder24/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
