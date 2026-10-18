@@ -17,6 +17,7 @@
 | [1386-cinema-seat-allocation](https://github.com/mdecoder24/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/mdecoder24/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdecoder24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdecoder24/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mdecoder24/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mdecoder24/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -115,6 +116,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mdecoder24/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/mdecoder24/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mdecoder24/Leetcode/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdecoder24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mdecoder24/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mdecoder24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdecoder24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -157,6 +159,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdecoder24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mdecoder24/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Math
 |  |
@@ -167,6 +170,7 @@
 | [0877-stone-game](https://github.com/mdecoder24/Leetcode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mdecoder24/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/mdecoder24/Leetcode/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdecoder24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/mdecoder24/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mdecoder24/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdecoder24/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -294,14 +298,17 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdecoder24/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdecoder24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdecoder24/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdecoder24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdecoder24/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdecoder24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Game Theory
 |  |
 | ------- |
@@ -317,6 +324,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mdecoder24/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdecoder24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Quickselect
 |  |
 | ------- |
@@ -353,4 +361,16 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mdecoder24/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdecoder24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdecoder24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdecoder24/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
