@@ -42,6 +42,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mdecoder24/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mdecoder24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/mdecoder24/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/mdecoder24/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdecoder24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mdecoder24/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mdecoder24/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -135,6 +136,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mdecoder24/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdecoder24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/mdecoder24/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/mdecoder24/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Graph Theory
 |  |
 | ------- |
