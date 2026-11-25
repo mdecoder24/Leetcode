@@ -52,6 +52,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mdecoder24/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mdecoder24/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3904-smallest-stable-index-ii](https://github.com/mdecoder24/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/mdecoder24/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mdecoder24/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdecoder24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/mdecoder24/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/mdecoder24/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -263,6 +265,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mdecoder24/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdecoder24/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mdecoder24/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/mdecoder24/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -438,4 +441,16 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mdecoder24/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/mdecoder24/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/mdecoder24/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/mdecoder24/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
