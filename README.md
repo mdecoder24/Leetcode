@@ -53,6 +53,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mdecoder24/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3904-smallest-stable-index-ii](https://github.com/mdecoder24/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/mdecoder24/Leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mdecoder24/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mdecoder24/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mdecoder24/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mdecoder24/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mdecoder24/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mdecoder24/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdecoder24/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mdecoder24/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mdecoder24/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdecoder24/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mdecoder24/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3620-network-recovery-pathways](https://github.com/mdecoder24/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mdecoder24/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Shortest Path
 |  |
 | ------- |
